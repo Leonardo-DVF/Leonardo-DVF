@@ -22,6 +22,8 @@
   <img align="center" alt="Swagger" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
   <img align="center" alt="JWT" height="40" width="50" src="https://jwt.io/img/pic_logo.svg">
   <img align="center" alt="JUnit" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
+  <img align="center" alt="Postman" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="DBeaver" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg">
 </div>
 
 ##
