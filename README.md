@@ -41,4 +41,4 @@
 </a>
 </div>
 
-![Snake animation](https://github.com/Leonardo-DVF/Leonardo-DVF/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/Leonardo-DVF/Leonardo-DVF/blob/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/Leonardo-DVF/Leonardo-DVF/output/...)
