@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Leonardo-DVF">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leonardo-DVF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leonardo-DVF&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-eosin-gamma-93.vercel.app/api?username=Leonardo-DVF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eosin-gamma-93.vercel.app/api/top-langs/?username=Leonardo-DVF&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </div>
 
