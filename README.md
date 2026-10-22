@@ -1,4 +1,3 @@
-
 # Olá! Eu sou Leonardo Duarte 👋
 
 💻 Desenvolvedor Backend Java  
@@ -7,7 +6,7 @@
 
 <div>
   <a href="https://github.com/Leonardo-DVF">
-    <img height="180em" src="https://github-readme-stats-eosin-gamma-93.vercel.app/api?username=Leonardo-DVF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
+    <img height="180em" src="https://github-readme-stats-eosin-gamma-93.vercel.app/api?username=Leonardo-DVF&show_icons=true&theme=tokyonight&include_all_commits=false&hide=contribs&v=7"/>
     <img height="180em" src="https://github-readme-stats-eosin-gamma-93.vercel.app/api/top-langs/?username=Leonardo-DVF&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </div>
