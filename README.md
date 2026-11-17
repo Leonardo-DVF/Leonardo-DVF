@@ -1,8 +1,9 @@
 # Olá! Eu sou Leonardo Duarte 👋
 
-💻 Desenvolvedor Backend Java  
-🚀 Atualmente atuando com APIs REST, Spring Boot e PostgreSQL  
-🌱 Aprofundando conhecimentos em microsserviços, arquitetura de software e mensageria  
+💻 Desenvolvedor Backend Java na Search Tecnologia  
+🚀 No dia a dia: APIs REST com Spring Boot, Spring Security/JWT, PostgreSQL e Docker  
+⛓️ Blockchain: chaincodes em Go na rede Hyperledger Fabric  
+🌱 Aprofundando conhecimentos em microsserviços, mensageria e arquitetura de software  
 
 <div>
   <a href="https://github.com/Leonardo-DVF">
@@ -14,13 +15,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Redis" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  <img align="center" alt="Apache Kafka" height="40" width="50" src="https://cdn.simpleicons.org/apachekafka/white">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain.svg">
-  <img align="center" alt="RabbitMQ" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
-  <img align="center" alt="Apache Kafka" height="40" width="50" src="https://cdn.simpleicons.org/apachekafka/white">
 </div>
 
 ##
